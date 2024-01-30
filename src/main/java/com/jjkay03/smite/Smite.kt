@@ -1,5 +1,6 @@
 package com.jjkay03.smite
 
+import com.jjkay03.smite.commands.SmiteCommand
 import org.bukkit.Bukkit
 import org.bukkit.command.ConsoleCommandSender
 import org.bukkit.plugin.java.JavaPlugin
@@ -26,6 +27,10 @@ class Smite : JavaPlugin() {
 
         // Display plugin version
         logger.info("Plugin version: ${description.version}")
+
+        // Get Commands
+        getCommand("smite")?.setExecutor(SmiteCommand())
+        getCommand("smite")?.tabCompleter = SmiteCommand()
 
     }
 

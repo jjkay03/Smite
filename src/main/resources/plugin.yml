@@ -5,3 +5,12 @@ api-version: '1.20'
 authors: [jjkay03]
 description: The power of lightning!
 website: https://jjkay03.com/
+
+
+commands:
+
+  smite:
+    aliases: [ "lightning" ]
+    description: "Smite a player or location."
+    permission: smite.command.smite
+    permission-message: "You don't have permission to use this command!"
