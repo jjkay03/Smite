@@ -1,0 +1,7 @@
+name: Smite
+version: '${project.version}'
+main: com.jjkay03.smite.Smite
+api-version: '1.20'
+authors: [jjkay03]
+description: The power of lightning!
+website: https://jjkay03.com/
