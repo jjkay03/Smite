@@ -1,4 +1,11 @@
+<div align="center">
+
 ![Smite title](https://github.com/jjkay03/Smite/assets/61110962/7dc20b49-44bc-464c-aad4-0003476fa07d)
+
+[<img alt="modrinth" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_46h.png">](https://modrinth.com/plugin/smite)
+<img alt="paper" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/paper_46h.png">
+
+</div>
 
 <br>
 
